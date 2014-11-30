@@ -5,7 +5,7 @@
 //    an object of your own making, not the implicit 'this'.
 
 function Robot(){
-
+  this  // 'this' can be included or not.
 };
 
 function Vehicle(){
